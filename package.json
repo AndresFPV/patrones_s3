@@ -1,0 +1,17 @@
+{
+  "name": "patrones_s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sqlite3": "^3.1.6",
+    "pouchdb": "^7.1.1",
+    "sqlite3": "^4.1.1"
+  }
+}
