@@ -1,6 +1,9 @@
 //$ npm install sqlite3 @types/sqlite3 --save
 //$ npm install pouchdb --save
 
+//ESTE MODELO ESTA INCOMPLETO VER EL GIT DEL CURSO www.github.com/ulima-is2/is2_patrones1
+
+
 import {Database} from "sqlite3";
 
 interface Alumno

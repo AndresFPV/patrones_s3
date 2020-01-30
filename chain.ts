@@ -1,3 +1,5 @@
+//ESTE MODELO ESTA INCOMPLETO VER EL GIT DEL CURSO www.github.com/ulima-is2/is2_patrones1
+
 interface Reclamo
 {
     monto : number
